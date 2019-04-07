@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-develop
-ssss
-=======
 this is develop5
->>>>>>> develop5
